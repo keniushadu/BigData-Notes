@@ -29,7 +29,7 @@ Storm 是一个开源的分布式实时计算框架，可以以简单、可靠�
 
 #### 1.2 Storm 与 Hadoop对比
 
-Hadoop 采用 MapReduce 处理数据，而 MapReduce 主要是对数据进行批处理，这使得 Hadoop 更适合于海量数据离线处理的场景。而 Strom 的设计目标是对数据进行实时计算，这使得其更适合实时数据分析的场景。
+Hadoop 采用 MapReduce 处理数据，而 MapReduce 主要是对数据进行批处理，这使得 Hadoop 更适合于海量数据离线处理的场景。而 Storm 的设计目标是对数据进行实时计算，这使得其更适合实时数据分析的场景。
 
 
 
@@ -39,7 +39,7 @@ Spark Streaming 并不是真正意义上的流处理框架。 Spark Streaming �
 
 <div align="center"> <img  src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/streaming-flow.png"/> </div>
 
-#### 1.4 Strom 与 Flink对比
+#### 1.4 Storm 与 Flink对比
 
 storm 和 Flink 都是真正意义上的实时计算框架。其对比如下：
 
